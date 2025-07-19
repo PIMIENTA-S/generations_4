@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.contador{
+    text-align: center;
+}
+
+.numero{
+    padding: 10px;
+}
